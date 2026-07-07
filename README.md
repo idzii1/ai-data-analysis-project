@@ -1,4 +1,4 @@
-E-commerce Data Analysis (Python)
+AI Data Analysis Project (Python)
 This project performs sales data analysis from a CSV file (ecommerce.csv) using Python.
 It includes:
 
